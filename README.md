@@ -1,19 +1,19 @@
 
  # 🔭 Bienvenue sur mon compte !
--Je m'appele CAMARA SOULEYMANE,je suis devienu freelancer en developpement web. 
-- 🌱  **web fullstack
+   Je m'appele CAMARA SOULEYMANE,je suis devienu freelancer en developpement web. 
+- 🌱 **Developpeur fullstack**
 - 👯 je souhaiter rencontrer des personn passionné du code.
 - 🤔 je suis ouvert a toute proposition  ...
 - 💬 vous savez vous pouvez me poser des questions via mes respectifs contacts...
 
 # Les languages et frameworks
-> FRONTEND 
+ ## FRONTEND 
    >- REACTJS
    >- ANGULAR
    >- JQUERY
    >- JAVASCRIPT
 
->##BACKEND
+## BACKEND
  
   >- JAVA
       => SPRING-BOOT
