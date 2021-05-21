@@ -1,6 +1,6 @@
 
  # 🔭 Bienvenue sur mon compte !
-   Je m'appele CAMARA SOULEYMANE,developpeur web freelance en temps plein. 
+   Je m'appelle CAMARA SOULEYMANE,developpeur web freelance en temps plein. 
 - 🌱 **Developpeur fullstack**
 - 👯 Je souhaiter rencontrer des personn passionné du code.
 - 🤔 Je suis ouvert a toute proposition 
