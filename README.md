@@ -32,8 +32,7 @@
  - Intellij
   
    
- 
- #CONTACTS
+# CONTACTS
  
  [liked](https://www.linkedin.com/in/souleymane-camara-59b5ba1a2/)
  [site web](https://portfolio-camara.herokuapp.com)
