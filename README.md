@@ -5,28 +5,30 @@
 - 👯 je souhaiter rencontrer des personn passionné du code.
 - 🤔 je suis ouvert a toute proposition  ...
 - 💬 vous savez vous pouvez me poser des questions via mes respectifs contacts...
+
 # Les languages et frameworks
-- FRONTEND 
-   - REACTJS
-   - ANGULAR
-   - JQUERY
-   - JAVASCRIPT
-- BACKEND
-  - JAVA 
-    - SPRING-BOOT
-  - NODJS
-    - EXPRESS
-  - PHP
-    - LARAVEL
+> FRONTEND 
+   >- REACTJS
+   >- ANGULAR
+   >- JQUERY
+   >- JAVASCRIPT
+
+>##BACKEND
+ 
+  >- JAVA
+      => SPRING-BOOT
+  >- NODJS 
+      =>EXPRESS
+  >- PHP
+     =>LARAVEL
 
 # Les outils
  - GITHUB
  - BASH
  - VSCODE
  - SUBLIME TEXT
- - JAVA
-   - Eclipse
-   - Intellij
+ - Eclipse
+ - Intellij
   
    
  
