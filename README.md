@@ -4,10 +4,10 @@
 - 🌱 Je suis developpeur web fullstack .
 - 👯 je souhaiter rencontrer des personn passionné du code.
 - 🤔 je suis ouvert a toute proposition  ...
-- 💬 vous savez vous pouvez me poser des question via mes respectifs contacts...
+- 💬 vous savez vous pouvez me poser des questions via mes respectifs contacts...
 # Les languages et frameworks
-- FRONTEND
-   - REACTJS  
+- FRONTEND 
+   - REACTJS
    - ANGULAR
    - JQUERY
    - JAVASCRIPT
