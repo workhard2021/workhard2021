@@ -1,20 +1,20 @@
 
- # 🔭 Bienvenue sur mon compte !
-   Je m'appelle CAMARA SOULEYMANE,developpeur web freelance en temps plein. 
+ # 🔭 Bienvenue sur mon compte !👨🏻‍💻
+   Je m'appelle CAMARA SOULEYMANE, développeur web freelance à temps plein. 
 - 🌱 **Developpeur fullstack**
-- 👯 Je souhaite rencontrer des personnes passionnée du code.
-- 🤔 Je suis ouvert a toutes propositions 
-- 💬 Vous savez, vous pouvez me poser des questions via mes respectifs contacts...
-- ⚡ Je suis pret à relever le défi
+- 👯 Je souhaite rencontrer des personnes passionnée de code.
+- 🤔 Je suis ouvert à toutes propositions. 
+- 💬 Vous savez, vous pouvez me poser des questions via mes respectifs contacts. Vous trouverez de quoi me joindre dans la partie Contacts
+- ⚡ Je suis pret à relever le défi.
 
-# Les languages et frameworks
- ## FRONTEND 
+# Les languages et frameworks 🥷🏾
+ ## FRONTEND 📐 
    >- REACTJS
    >- ANGULAR
    >- JQUERY
    >- JAVASCRIPT
 
-## BACKEND
+## BACKEND ⚒
  
   >- JAVA
       => SPRING-BOOT
@@ -23,7 +23,7 @@
   >- PHP
      =>LARAVEL
 
-# Les outils
+# OUTILS 🧰
  - GITHUB
  - BASH
  - VSCODE
@@ -32,10 +32,12 @@
  - Intellij
   
    
-# CONTACTS
+# CONTACTS 📬
  
- [Likedln](https://www.linkedin.com/in/souleymane-camara-59b5ba1a2/)
- [Site Web](https://portfolio-camara.herokuapp.com)
+  > - [Likedln](https://www.linkedin.com/in/souleymane-camara-59b5ba1a2/)
+ > - [Site Web](https://portfolio-camara.herokuapp.com)
+ 
+ 
  
 
 
