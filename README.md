@@ -1,27 +1,44 @@
 
  # 🔭 Bienvenue sur mon compte !👨🏻‍💻
    Je m'appelle CAMARA SOULEYMANE, développeur web freelance à temps plein. 
-- 🌱 **Developpeur fullstack**
+- 🌱 **Developpeur web**
 - 👯 Je souhaite rencontrer des personnes passionnées de code.
 - 🤔 Je suis ouvert à toutes propositions. 
 - 💬 Vous trouverez de quoi me joindre dans la partie Contacts
 - ⚡ Je suis pret à relever le défi.
 
 ## LANGUAGES et FRAMEWORKS 🥷🏾
- ### FRONTEND 📐 
-   >- REACTJS
-   >- ANGULAR
-   >- JQUERY
-   >- JAVASCRIPT
 
+### FRONTEND 📐 
+<ul>
+        <li>Reactks <img width="30" height="30"  src="react.png" /> </li>
+        <li>ANGULAR <img width="30" height="30"  src="angular.png" /> </li>
+        <li> JQUERY <img width="30" height="30"  src="react.png" /> </li>
+        <li>JAVASCRIPT <img width="30" height="30"  src="javascript.png" /></li>
+</ul>
+    
 ### BACKEND ⚒
- 
-  >- JAVA
-      => SPRING-BOOT
-  >- NODJS 
-      =>EXPRESS
-  >- PHP
-     =>LARAVEL
+ <ul>
+      <li>
+       JAVA <img width="30" height="30"  src="java.png" />
+       <ul>
+        <li> SPRING-BOOT <img width="30" height="30"  src="spring-boot.png" /> </li>
+       </ul>
+      </li>
+      <li>
+         NODEJS <img width="30" height="30"  src="node.png" />
+         <ul>
+            <li>Express <img width="30" height="30"  src="express.png" /> </li>
+         </ul>
+      </li>
+      <li>
+          PHP <img width="30" height="30"  src="php.png" />
+         <ul>
+            <li>Laravel <img width="30" height="30"  src="laravel.png" /> </li>
+         </ul>
+      </li>
+</ul>
+<br/>
 
 ## OUTILS 🧰
  - GITHUB
@@ -30,7 +47,7 @@
  - SUBLIME TEXT
  - Eclipse
  - Intellij
-  
+
    
 ## CONTACTS 📬
  
