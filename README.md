@@ -13,7 +13,7 @@
 <ul>
         <li>Reactks <img width="30" height="30"  src="react.png" /> </li>
         <li>ANGULAR <img width="30" height="30"  src="angular.png" /> </li>
-        <li>JAVASCRIPT <img width="30" height="30"  src="javascript.png" /></li>
+       ## <li>JAVASCRIPT <img width="30" height="30"  src="javascript.png" /></li>
 </ul>
     
 ### BACKEND ⚒
